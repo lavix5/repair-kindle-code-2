@@ -11,11 +11,11 @@ $ su
 Type root password, download script:
 
 ```sh
-$ wget https://github.com/lavix5/repair_kindle_code_2/repair_kindle.sh 
+$ wget https://github.com/lavix5/repair-kindle-code-2/blob/main/kindle_repair.sh
 ```
 Make it executable:
 ```sh
-$ chmod +x ./repair_kindle.sh
+$ chmod +x ./kindle_repair.sh
 ```
 Run script:
 ```sh
