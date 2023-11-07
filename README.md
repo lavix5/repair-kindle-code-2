@@ -11,7 +11,7 @@ $ su
 Type root password, download script:
 
 ```sh
-$ wget https://github.com/lavix5/repair-kindle-code-2/blob/main/kindle_repair.sh
+$ git clone https://github.com/lavix5/repair-kindle-code-2 && cd repair-kindle-code-2
 ```
 Make it executable:
 ```sh
